@@ -57,7 +57,7 @@ On Fedora (and possibly RHEL/CentOS) the matching libraries are packaged in
 `python3-gobject`, `gtk3-devel`, and `webkit2gtk3-devel`:
 
 ```
-$ sudo dnf install python3-gobject gtk3-devel webkit2gtk3-devel
+$ sudo dnf install python3-gobject gtk3-devel webkit2gtk3-devel pip3
 ```
 
 On Arch Linux, the libraries are packaged in `gtk3`, `gobject-introspection`
